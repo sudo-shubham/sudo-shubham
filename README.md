@@ -95,20 +95,9 @@ Aug 2016 – Apr 2020    Senior Software Engineer               @ vPhrase Analyt
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudo-shubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubham's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-shubham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 - 🌐 Visit my website: [shubhampatel.dev](https://shubhampatel.dev)
 - 💬 Let's talk about **Platform Engineering, Kubernetes at Scale, Crossplane, AIOps, or SRE**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhampatelsp812/)
 - ✉️ Email me at [shubhampatelsp812@gmail.com](mailto:shubhampatelsp812@gmail.com)
-
-</div>
