@@ -102,12 +102,6 @@ Aug 2016 – Apr 2020    Senior Software Engineer               @ vPhrase Analyt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-shubham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-shubham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 📫 Let's Connect
