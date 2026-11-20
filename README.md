@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-shubhampatel.dev-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](https://shubhampatel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhampatelsp812/)
 [![Email](https://img.shields.io/badge/Email-shubhampatelsp812%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhampatelsp812@gmail.com)
-[![Location](https://img.shields.io/badge/Relocating%20To-Netherlands%20(Nov%202026)-2463EB?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![Location](https://img.shields.io/badge/Netherlands%20-2463EB?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 <br/>
 
